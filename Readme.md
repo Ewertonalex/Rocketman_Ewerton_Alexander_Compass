@@ -149,7 +149,7 @@
  ### 💻Feito por:💻
   
 
-[<img src="https://media-exp1.licdn.com/dms/image/C4E03AQEvCv2V3qI8Kg/profile-displayphoto-shrink_400_400/0/1655332819408?e=1660780800&v=beta&t=5GZBUzCWlMXbPgHJEKzrzdDx7QQXyl2mNhhklkrukVU" width=215><br>
+<img src="https://media-exp1.licdn.com/dms/image/C4E03AQEvCv2V3qI8Kg/profile-displayphoto-shrink_400_400/0/1655332819408?e=1660780800&v=beta&t=5GZBUzCWlMXbPgHJEKzrzdDx7QQXyl2mNhhklkrukVU" width=215><br>
 <a href="https://www.linkedin.com/in/ewerton-alexander-780869232/" target="_blank">Ewerton Alexander</a>!<g-emoji class="g-emoji" alias="wave" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png">👋</g-emoji>
 
 <br><br><img src="https://24.media.tumblr.com/69e7c44eff8067110ba1ef3ea555ebb7/tumblr_ms5k6pYcUJ1sezoa7o1_500.gif" width=350><br>
