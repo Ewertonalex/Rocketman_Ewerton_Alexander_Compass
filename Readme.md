@@ -149,7 +149,7 @@
  ### 💻Feito por:💻
   
 
-[<img src="https://media-exp1.licdn.com/dms/image/C4D03AQFcNDKGDTzDyA/profile-displayphoto-shrink_200_200/0/1650539849703?e=1657152000&v=beta&t=2zrjYi2tMt8LPA84G2FxTQQSpU1Hh-rPsF0gVrwKD4E" width=115><br><sub>Ewerton Alexander</sub>](https://www.linkedin.com/in/ewerton-alexander-780869232/)
+[<img src="https://media-exp1.licdn.com/dms/image/C4E03AQEvCv2V3qI8Kg/profile-displayphoto-shrink_400_400/0/1655332819408?e=1660780800&v=beta&t=5GZBUzCWlMXbPgHJEKzrzdDx7QQXyl2mNhhklkrukVU" width=115><br><sub>Ewerton Alexander</sub>](https://www.linkedin.com/in/ewerton-alexander-780869232/)
   
 <br><br><img src="https://24.media.tumblr.com/69e7c44eff8067110ba1ef3ea555ebb7/tumblr_ms5k6pYcUJ1sezoa7o1_500.gif" width=350><br>
  
