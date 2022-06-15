@@ -76,7 +76,7 @@
 > 3️⃣ <strong>Crie uma conta no GitHub</strong><br>Clique para Acessar 👇 <br>
 [<img src="https://www.kindpng.com/picc/m/128-1280187_github-logo-png-github-transparent-png.png" width=115><br>](https://github.com/)<br>
 > 4️⃣ <strong>Siga o passo a passo para usar o Git e Github</strong><br>Clique para Acessar 👇 <br>
-[<img src="https://images.sympla.com.br/5c9f7cab4f4f0-xs.jpg" width=115><br>](https://github.com/Ewertonalex/Rocketman_Ewerton_Alexander_Compass/tree/main/Tutorial%20Git%20e%20Github)<br>
+[<img src="https://images.sympla.com.br/5c9f7cab4f4f0-xs.jpg" width=115><br>](https://github.com/Ewertonalex/Rocketman_Ewerton_Alexander_Compass/tree/develop/Tutorial%20Git%20e%20Github)<br>
 
 ---
 <div align="center">
@@ -106,7 +106,7 @@
 </div>
 
 1️⃣ <strong>Utilizando o Git e Github, tutorial de como usei;</strong><br>Clique para Acessar 👇 <br>
-[<img src="https://images.sympla.com.br/5c9f7cab4f4f0-xs.jpg" width=115><br>](https://github.com/Ewertonalex/Rocketman_Ewerton_Alexander_Compass/tree/main/Tutorial%20Git%20e%20Github)<br>
+[<img src="https://images.sympla.com.br/5c9f7cab4f4f0-xs.jpg" width=115><br>](https://github.com/Ewertonalex/Rocketman_Ewerton_Alexander_Compass/tree/develop/Tutorial%20Git%20e%20Github)<br>
 2️⃣ <strong>Curso JavaScript, aulas e projetos;</strong><br>Clique para Acessar 👇 <br>
 [<img src="https://rafaelomarques.files.wordpress.com/2016/05/logo-javascript.png" width=115><br>](https://github.com/Ewertonalex/Rocketman_Ewerton_Alexander_Compass/tree/main/Javascript)<br>
 
