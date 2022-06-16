@@ -53,7 +53,7 @@
 > 1️⃣ Sistema GIT para versionamento de arquivos.  |   Status: Concluído ✅ <br><br>
 > 2️⃣ Plataforma e ferramentas GitHub.  |   Status: Concluído ✅ <br><br>
 > 3️⃣ Linguagem de programação Javascript.  |   Status: Concluído ✅ <br><br>
-> 4️⃣ KOANS JS - Aprendizado sobre refatoração de testes automatizados.  |   Status: A realizar 🛑 <br><br>
+> 4️⃣ KOANS JS - Aprendizado sobre refatoração de testes automatizados.  |   Status: Concluído ✅ <br><br>
 > 5️⃣ TDD - Test Driven Development ou Desenvolvimento Guiado por Testes  |   Status: A realizar 🛑 <br><br>
 > 6️⃣ Bibliotecas como Mocha e Chai.  |   Status: A realizar 🛑 <br><br>
 
