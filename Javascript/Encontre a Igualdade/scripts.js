@@ -20,4 +20,4 @@ function temEnderecoMemoriaIguais(endereco1, endereco2) {
     return endereco1 === endereco2
 }
 
-console.log(temEnderecoMemoriaIguais(endereco1,endereco2));
+console.log(temEnderecoMemoriaIguais(endereco1,endereco2))
