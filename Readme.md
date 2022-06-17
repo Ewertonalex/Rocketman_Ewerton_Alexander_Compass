@@ -145,7 +145,7 @@
 
 <table>
   <tr>
-    <td align="center"><a href="https://www.linkedin.com/in/analuizanasc/"><img style="border-radius: 50%;" src="https://media-exp1.licdn.com/dms/image/C4E03AQEUbSv5RzIYVA/profile-displayphoto-shrink_400_400/0/1648069744633?e=1660780800&v=beta&t=m2IULtmdu2EI5eYTgeoHslPkOsAAONGZqmMm747yIzA" width="100px;" alt=""/><br /><sub><b>Ana Luiza</b></sub></a><br />👨‍🚀</a></td>
+    <td align="center"><a href="https://www.linkedin.com/in/analuizanasc/"><img style="border-radius: 50%;" src="https://data.bloggif.com/distant/user/store/2/7/3/4/49963320cfca7690f686a1bd87c24372.gif" width="100px;" alt=""/><br /><sub><b>Ana Luiza</b></sub></a><br />👨‍🚀</a></td>
   
   <td align="center"><a href="https://www.linkedin.com/in/giordano-palmezano-90585b222/"><img style="border-radius: 50%;" src="https://media-exp1.licdn.com/dms/image/C4D03AQEnYfTZFaQwxA/profile-displayphoto-shrink_400_400/0/1651475763131?e=1660780800&v=beta&t=84J89TNg9kzmStar9HjIdpqaTV6CqSsTk13QXCzLRU4" width="100px;" alt=""/><br /><sub><b>Giornado Palmezano</b></sub></a><br />👨‍🚀</a></td>
 
