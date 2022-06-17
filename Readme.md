@@ -137,11 +137,11 @@
 - https://github.com/rafaballerini
 - https://www.youtube.com/c/rafaellaballerini
  
-<div align="center">
+
   
 ### 💜 Um super thanks 👏 para essa galera que me apoiou nesse projeto:
 
-
+<div align="center">
 
 <table>
   <tr>
