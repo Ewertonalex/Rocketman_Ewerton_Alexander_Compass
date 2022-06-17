@@ -159,7 +159,7 @@
   
  ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
   
- ### 💻Feito por:💻<img src="https://proinnovation.com.br/wp-content/uploads/2020/04/Foguete03.gif" width=40><br>
+ <img src="https://proinnovation.com.br/wp-content/uploads/2020/04/Foguete03.gif" width=40> Feito por: <img src="https://proinnovation.com.br/wp-content/uploads/2020/04/Foguete03.gif" width=40><br>
   
 
 <img src="https://media-exp1.licdn.com/dms/image/C4E03AQEvCv2V3qI8Kg/profile-displayphoto-shrink_400_400/0/1655332819408?e=1660780800&v=beta&t=5GZBUzCWlMXbPgHJEKzrzdDx7QQXyl2mNhhklkrukVU" width=215><br>
