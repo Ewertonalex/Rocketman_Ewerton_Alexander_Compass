@@ -20,6 +20,8 @@
   
 <img height="40em" src="https://www.mulesoft.com/sites/default/files/2020-05/LogoCompasso-negativo_0.png"/>
  
+
+ ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 </div>
 
 ---
@@ -37,6 +39,9 @@
 [![blog](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)]
 [![blog](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)]
   
+
+ ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+ 
 </div>
 
 ---
