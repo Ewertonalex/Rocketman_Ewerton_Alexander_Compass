@@ -76,7 +76,7 @@
 
 > 1️⃣ <strong>Instalar o Visual Studio Code.</strong><br>Clique para Instalar 👇 <br>
 [<img src="https://miro.medium.com/max/1400/1*cn_XBD307E3lObHk511Qqg.png" width=115><br>](https://code.visualstudio.com/download)<br>
-> 2️⃣ <strong>Instalat o Git.</strong><br>Clique para Instalar 👇 <br>
+> 2️⃣ <strong>Instalar o Git.</strong><br>Clique para Instalar 👇 <br>
 [<img src="https://git-scm.com/images/logos/downloads/Git-Logo-1788C.png" width=115><br>](https://git-scm.com/downloads)<br>
 > 3️⃣ <strong>Crie uma conta no GitHub</strong><br>Clique para Acessar 👇 <br>
 [<img src="https://www.kindpng.com/picc/m/128-1280187_github-logo-png-github-transparent-png.png" width=115><br>](https://github.com/)<br>
@@ -159,7 +159,7 @@
   
  ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
   
- ### 💻Feito por:💻
+ ### 💻Feito por:💻<img src="http://s2.glbimg.com/s9JMmc7HfCyj6lP2uX4LgK8RTUo=/290x217/s2.glbimg.com/jcI-yw0iA3RKj1dGFoiTc9Lcuo0=/620x465/s.glbimg.com/jo/g1/f/original/2015/07/19/animefriends2015-31.jpg" width=20><br>
   
 
 <img src="https://media-exp1.licdn.com/dms/image/C4E03AQEvCv2V3qI8Kg/profile-displayphoto-shrink_400_400/0/1655332819408?e=1660780800&v=beta&t=5GZBUzCWlMXbPgHJEKzrzdDx7QQXyl2mNhhklkrukVU" width=215><br>
