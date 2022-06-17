@@ -162,7 +162,7 @@
  <h3><img src="https://proinnovation.com.br/wp-content/uploads/2020/04/Foguete03.gif" width=50> Feito por: <img src="https://proinnovation.com.br/wp-content/uploads/2020/04/Foguete03.gif" width=50><br><br>
   
 
-<img src="https://media-exp1.licdn.com/dms/image/C4E03AQEvCv2V3qI8Kg/profile-displayphoto-shrink_400_400/0/1655332819408?e=1660780800&v=beta&t=5GZBUzCWlMXbPgHJEKzrzdDx7QQXyl2mNhhklkrukVU" width=215><br>
+<img src="https://data.bloggif.com/distant/user/store/4/b/8/3/65aea72e9748e5eb30712a91320038b4.gif" width=215><br>
 <a href="https://www.linkedin.com/in/ewerton-alexander-780869232/" target="_blank">Ewerton Alexander</a>!<g-emoji class="g-emoji" alias="wave" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png">👋</g-emoji></h3>
 
 <br><br><img src="https://24.media.tumblr.com/69e7c44eff8067110ba1ef3ea555ebb7/tumblr_ms5k6pYcUJ1sezoa7o1_500.gif" width=350><br>
