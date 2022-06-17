@@ -159,7 +159,7 @@
   
  ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
   
- ### 💻Feito por:💻<img src="http://s2.glbimg.com/s9JMmc7HfCyj6lP2uX4LgK8RTUo=/290x217/s2.glbimg.com/jcI-yw0iA3RKj1dGFoiTc9Lcuo0=/620x465/s.glbimg.com/jo/g1/f/original/2015/07/19/animefriends2015-31.jpg" width=20><br>
+ ### 💻Feito por:💻<img src="https://proinnovation.com.br/wp-content/uploads/2020/04/Foguete03.gif" width=40><br>
   
 
 <img src="https://media-exp1.licdn.com/dms/image/C4E03AQEvCv2V3qI8Kg/profile-displayphoto-shrink_400_400/0/1655332819408?e=1660780800&v=beta&t=5GZBUzCWlMXbPgHJEKzrzdDx7QQXyl2mNhhklkrukVU" width=215><br>
