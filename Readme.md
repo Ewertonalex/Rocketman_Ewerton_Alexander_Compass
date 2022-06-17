@@ -118,6 +118,8 @@
 [<img src="https://images.sympla.com.br/5c9f7cab4f4f0-xs.jpg" width=115><br>](https://github.com/Ewertonalex/Rocketman_Ewerton_Alexander_Compass/tree/develop/Tutorial%20Git%20e%20Github)<br>
 2️⃣ <strong>Curso JavaScript, aulas e projetos;</strong><br>Clique para Acessar 👇 <br>
 [<img src="https://rafaelomarques.files.wordpress.com/2016/05/logo-javascript.png" width=115><br>](https://github.com/Ewertonalex/Rocketman_Ewerton_Alexander_Compass/tree/develop/Javascript)<br>
+3️⃣ <strong>Utilizando as Bibliotecas Mocha e Chai;</strong><br>Clique para Acessar 👇 <br>
+[<img src="https://miro.medium.com/max/482/1*BmORsbtFaWw0lyyfMtYd0Q.png" width=115><br>](https://github.com/Ewertonalex/Rocketman_Ewerton_Alexander_Compass/tree/develop/mocha-chai)<br>
 
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
