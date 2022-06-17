@@ -145,7 +145,7 @@
 
 <table>
   <tr>
-    <td align="center"><img style="border-radius: 50%;" src="https://data.bloggif.com/distant/user/store/2/7/3/4/49963320cfca7690f686a1bd87c24372.gif" alt= width="399" height="400"/><br /><sub><b>Ana Luiza</b></sub></a><br />👨‍🚀</a></td>
+    <td align="center"><a href="https://www.linkedin.com/in/analuizanasc/"><img style="border-radius: 50%;" src="https://data.bloggif.com/distant/user/store/2/7/3/4/49963320cfca7690f686a1bd87c24372.gif" width="100px;" alt=""/><br /><sub><b>Ana Luiza</b></sub></a><br />👨‍🚀</a></td>
   
   <td align="center"><a href="https://www.linkedin.com/in/giordano-palmezano-90585b222/"><img style="border-radius: 50%;" src="https://media-exp1.licdn.com/dms/image/C4D03AQEnYfTZFaQwxA/profile-displayphoto-shrink_400_400/0/1651475763131?e=1660780800&v=beta&t=84J89TNg9kzmStar9HjIdpqaTV6CqSsTk13QXCzLRU4" width="100px;" alt=""/><br /><sub><b>Giornado Palmezano</b></sub></a><br />👨‍🚀</a></td>
 
@@ -162,7 +162,7 @@
  <h3><img src="https://proinnovation.com.br/wp-content/uploads/2020/04/Foguete03.gif" width=50> Feito por: <img src="https://proinnovation.com.br/wp-content/uploads/2020/04/Foguete03.gif" width=50><br><br>
   
 
-<img src="https://data.bloggif.com/distant/user/store/4/b/8/3/65aea72e9748e5eb30712a91320038b4.gif" width=215><br>
+<img style="border-radius: 50%;" src="https://data.bloggif.com/distant/user/store/4/b/8/3/65aea72e9748e5eb30712a91320038b4.gif" width=215><br>
 <a href="https://www.linkedin.com/in/ewerton-alexander-780869232/" target="_blank">Ewerton Alexander</a>!<g-emoji class="g-emoji" alias="wave" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png">👋</g-emoji></h3>
 
 <br><br><img src="https://24.media.tumblr.com/69e7c44eff8067110ba1ef3ea555ebb7/tumblr_ms5k6pYcUJ1sezoa7o1_500.gif" width=350><br>
