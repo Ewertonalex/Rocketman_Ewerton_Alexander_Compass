@@ -24,7 +24,7 @@
  ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 </div>
 
----
+
 
 <div align="center">
 
@@ -41,10 +41,10 @@
   
 
  ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
- 
+
 </div>
 
----
+
 <div align="center">
  <img src="https://images.squarespace-cdn.com/content/v1/51dde717e4b01d6e75f8675b/1450172339211-DV235NTOJO8XDE06TT6B/%21laptop.jpg" width=300><br>
 
@@ -62,8 +62,8 @@
 > 5️⃣ TDD - Test Driven Development ou Desenvolvimento Guiado por Testes  |   Status: A realizar 🛑 <br><br>
 > 6️⃣ Bibliotecas como Mocha e Chai.  |   Status: A realizar 🛑 <br><br>
 
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
----
 <div align="center">
  <img src="https://www.oversodoinverso.com.br/wp-content/uploads/2017/12/Photographer-imagines-what-it-would-be-like-if-Darth-Vader-went-through-a-financial-crisis-and-the-result-will-amuse-you-5a287c2374da3__880.jpg" width=300><br>
 
@@ -83,7 +83,9 @@
 > 4️⃣ <strong>Siga o passo a passo para usar o Git e Github</strong><br>Clique para Acessar 👇 <br>
 [<img src="https://images.sympla.com.br/5c9f7cab4f4f0-xs.jpg" width=115><br>](https://github.com/Ewertonalex/Rocketman_Ewerton_Alexander_Compass/tree/develop/Tutorial%20Git%20e%20Github)<br>
 
----
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
 <div align="center">
  <img src="https://static1.purebreak.com.br/articles/4/20/91/4/@/105506-de-star-wars-darth-vader-sabe-que-o-700x700-1.jpg" width=300><br>
 
@@ -102,7 +104,9 @@
 7️⃣ Nome das variáveis e métodos;<br><br>
 8️⃣ Plágio!.
 
----
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
 <div align="center">
  <img src="https://c.tenor.com/dRFNEXOtLMYAAAAM/star-wars.gif" width=300><br>
   
@@ -115,7 +119,9 @@
 2️⃣ <strong>Curso JavaScript, aulas e projetos;</strong><br>Clique para Acessar 👇 <br>
 [<img src="https://rafaelomarques.files.wordpress.com/2016/05/logo-javascript.png" width=115><br>](https://github.com/Ewertonalex/Rocketman_Ewerton_Alexander_Compass/tree/develop/Javascript)<br>
 
----
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
 <div align="center">
  <img src="http://s2.glbimg.com/s9JMmc7HfCyj6lP2uX4LgK8RTUo=/290x217/s2.glbimg.com/jcI-yw0iA3RKj1dGFoiTc9Lcuo0=/620x465/s.glbimg.com/jo/g1/f/original/2015/07/19/animefriends2015-31.jpg" width=300><br>
 
@@ -149,7 +155,7 @@
 
 <div align="center">
   
- ---
+ ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
   
  ### 💻Feito por:💻
   
