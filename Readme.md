@@ -2,16 +2,20 @@
   
  <img src="https://64.media.tumblr.com/ea093048604b0726ae15a8e73a6c6b65/50bf1ff9e4318306-8b/s540x810/5102656cb0c97ef270b68aa171b50992c17553ea.gif"><br>
   
+  <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=000000&size=25&lines=Bem+-+vindo+ao+meu+repositório..." /></a>
+  
   👋 Olá! Eu sou o Ewerton Alexander...</h1>
+
+
 </div>
+
+
 
 
 
 <div align="center">
 
-  <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=000000&size=25&lines=Bem+-+vindo+ao+meu+repositório..." /></a>
-
-
+  
 <h1 align="center">
   
  <img src="https://media2.giphy.com/media/3ohnEqJ1XOfvWaSk7e/giphy.gif" width=300><br>
