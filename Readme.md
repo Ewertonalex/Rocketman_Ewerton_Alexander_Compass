@@ -59,8 +59,8 @@
 > 2️⃣ Plataforma e ferramentas GitHub.  |   Status: Concluído ✅ <br><br>
 > 3️⃣ Linguagem de programação Javascript.  |   Status: Concluído ✅ <br><br>
 > 4️⃣ KOANS JS - Aprendizado sobre refatoração de testes automatizados.  |   Status: Concluído ✅ <br><br>
-> 5️⃣ TDD - Test Driven Development ou Desenvolvimento Guiado por Testes  |   Status: A realizar 🛑 <br><br>
-> 6️⃣ Bibliotecas como Mocha e Chai.  |   Status: A realizar 🛑 <br><br>
+> 5️⃣ TDD - Test Driven Development ou Desenvolvimento Guiado por Testes  |   Status: Concluído ✅ <br><br>
+> 6️⃣ Bibliotecas como Mocha e Chai.  |   Status: Concluído ✅ <br><br>
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
