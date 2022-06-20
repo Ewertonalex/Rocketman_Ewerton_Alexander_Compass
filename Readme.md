@@ -10,9 +10,6 @@
 </div>
 
 
-
-
-
 <div align="center">
 
   
@@ -20,7 +17,7 @@
   
  <img src="https://media2.giphy.com/media/3ohnEqJ1XOfvWaSk7e/giphy.gif" width=300><br>
   
-  👋 Olá! Eu sou o Ewerton Alexander...</h1>
+  
 </div>
 
 
