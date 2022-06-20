@@ -18,7 +18,8 @@
   <h2>Este repositório é referente a Sprint 4 do Time Rocketman🚀</h2>
 <h3>Programa de Bolsas da Compass.Uol</h3><br>
 
-<img height="40em" src="https://www.mulesoft.com/sites/default/files/2020-05/LogoCompasso-negativo_0.png" width=115><br>](https://compass.uol/pt/?utm_source=google-ads&utm_medium=ppc&utm_campaign=compasso-uol-institucional&utm_term=compasso.uol&gclid=CjwKCAjwtcCVBhA0EiwAT1fY73MnCX65NyHVN-U5XhHq5vqe2SxjcGsPuhhWX6fIqpjGZzgB7k3qRxoCmQsQAvD_BwE)
+
+[<img src="https://www.mulesoft.com/sites/default/files/2020-05/LogoCompasso-negativo_0.png" width=115><br>](https://compass.uol/pt/?utm_source=google-ads&utm_medium=ppc&utm_campaign=compasso-uol-institucional&utm_term=compasso.uol&gclid=CjwKCAjwtcCVBhA0EiwAT1fY73MnCX65NyHVN-U5XhHq5vqe2SxjcGsPuhhWX6fIqpjGZzgB7k3qRxoCmQsQAvD_BwE)<br>
   
 <img height="40em" src="https://www.mulesoft.com/sites/default/files/2020-05/LogoCompasso-negativo_0.png"/>
  
