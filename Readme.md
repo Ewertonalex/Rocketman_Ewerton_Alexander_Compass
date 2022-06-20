@@ -1,4 +1,10 @@
-![Banner abertura](https://64.media.tumblr.com/ea093048604b0726ae15a8e73a6c6b65/50bf1ff9e4318306-8b/s540x810/5102656cb0c97ef270b68aa171b50992c17553ea.gifv)
+<h1 align="center">
+  
+ <img src="https://64.media.tumblr.com/ea093048604b0726ae15a8e73a6c6b65/50bf1ff9e4318306-8b/s540x810/5102656cb0c97ef270b68aa171b50992c17553ea.gifv"><br>
+  
+  👋 Olá! Eu sou o Ewerton Alexander...</h1>
+</div>
+
 
 
 <div align="center">
