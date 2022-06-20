@@ -20,6 +20,9 @@
 
 
 [<img src="https://www.mulesoft.com/sites/default/files/2020-05/LogoCompasso-negativo_0.png" width=200><br>](https://compass.uol/pt/?utm_source=google-ads&utm_medium=ppc&utm_campaign=compasso-uol-institucional&utm_term=compasso.uol&gclid=CjwKCAjwtcCVBhA0EiwAT1fY73MnCX65NyHVN-U5XhHq5vqe2SxjcGsPuhhWX6fIqpjGZzgB7k3qRxoCmQsQAvD_BwE)<br>
+
+<strong>Clique na logo acima 👆 para conhecer mais da Compass Uol.</strong><br>
+
   
  
 
