@@ -4,7 +4,7 @@
   
   <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=000000&size=25&lines=Bem+-+vindo+ao+meu+repositório..." /></a>
   
-  👋 Olá! Eu sou o Ewerton Alexander... <img src="https://data.bloggif.com/distant/user/store/8/c/6/6/4be784d31f3f96a157dd14094c1766c8.gif" width=200></h1>
+  👋 Olá! Eu sou o Ewerton Alexander... <img src="https://data.bloggif.com/distant/user/store/8/c/6/6/4be784d31f3f96a157dd14094c1766c8.gif" width=80></h1>
 
 
 </div>
@@ -15,7 +15,7 @@
   
 <h1 align="center">
   
- <img src="https://media2.giphy.com/media/3ohnEqJ1XOfvWaSk7e/giphy.gif" width=80><br>
+ <img src="https://media2.giphy.com/media/3ohnEqJ1XOfvWaSk7e/giphy.gif" width=300><br>
   
   
 </div>
