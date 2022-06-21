@@ -150,23 +150,23 @@
 
 <strong>Testes Usados na Calculadora</strong>
 
-1️⃣ Soma (Numeros inteiros, negativos e flutuantes)
-2️⃣ Soma de um Array
-3️⃣ Subtração
-4️⃣ Subtração de um Array
-5️⃣ Multiplicação
-6️⃣ Divisão
-7️⃣ Dobro de um valor
-8️⃣ Média
-9️⃣ Raiz Quadrada
-🔟 Raiz Cúbica
-1️⃣1️⃣ Potenciação
-1️⃣2️⃣ Porcentagem
-1️⃣3️⃣ Máximo Divisor Comum
-1️⃣4️⃣ Mínimo Múltiplo Comum
-1️⃣5️⃣ Fatorial
+1️⃣ Soma (Numeros inteiros, negativos e flutuantes)<br>
+2️⃣ Soma de um Array<br>
+3️⃣ Subtração<br>
+4️⃣ Subtração de um Array<br>
+5️⃣ Multiplicação<br>
+6️⃣ Divisão<br>
+7️⃣ Dobro de um valor<br>
+8️⃣ Média<br>
+9️⃣ Raiz Quadrada<br>
+🔟 Raiz Cúbica<br>
+1️⃣1️⃣ Potenciação<br>
+1️⃣2️⃣ Porcentagem<br>
+1️⃣3️⃣ Máximo Divisor Comum<br>
+1️⃣4️⃣ Mínimo Múltiplo Comum<br>
+1️⃣5️⃣ Fatorial<br>
 
-<img src="../img/testess.jpeg" width=800><br>
+![Testes](img/testess.jpeg)<br>
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
