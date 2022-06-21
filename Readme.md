@@ -1,6 +1,6 @@
 <h1 align="center">
   
- <img src="https://64.media.tumblr.com/ea093048604b0726ae15a8e73a6c6b65/50bf1ff9e4318306-8b/s540x810/5102656cb0c97ef270b68aa171b50992c17553ea.gif"><br>
+ <img src="https://www.canva.com/design/DAFER5TKDXk/t6juDWdKjRMFm-B4kIfX5A/edit?utm_content=DAFER5TKDXk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"><br>
   
   <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=000000&size=25&lines=Bem+-+vindo+ao+meu+repositório..." /></a>
   
