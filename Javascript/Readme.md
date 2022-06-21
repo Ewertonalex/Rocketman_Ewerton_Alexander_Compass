@@ -17,13 +17,9 @@
 - <b>Visual Studio Code:</b> O Vscode foi a ide utilizada para escrever e executar os códigos JavaScript.
 - <b>NodeJs:</b> O NodeJs foi para executar os códigos JavaScript diretamente no Visual Studio Code.
 
-<div align = "center">
-  <img align="center" alt="" height="40" width="50" src="https://miro.medium.com/max/1400/1*cn_XBD307E3lObHk511Qqg.png">
-  <img align="center" alt="" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-</div>
 
-#
 ## Atividades
+
 - [Conteudo das Aulas   ](https://github.com/Ewertonalex/Rocketman_Ewerton_Alexander_Compass/tree/develop/Javascript/Conteudo%20das%20Aulas)<br>
 - [Trocando Valores   ](https://github.com/Ewertonalex/Rocketman_Ewerton_Alexander_Compass/tree/develop/Javascript/Trocando%20Valor)<br>
 - [Maximo entre dois valores ](https://github.com/Ewertonalex/Rocketman_Ewerton_Alexander_Compass/tree/develop/Javascript/Maximo%20entre%20dois%20numeros)<br>
