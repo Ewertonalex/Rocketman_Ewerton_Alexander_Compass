@@ -146,7 +146,7 @@
 <strong>Aqui construí uma calculadora com algumas operações matemáticas abaixo listadas, usando o que foi aprendido nas aulas da Sprint 4 de TDD com Mocha e Chai.</strong>
 </div>
 <br>
-<strong>Testes Usados na Calculadora</strong><br>
+<strong>Testes Usados na Calculadora</strong><br><br>
 
 1️⃣ Soma (Numeros inteiros, negativos e flutuantes)<br>
 2️⃣ Soma de um Array<br>
@@ -165,7 +165,7 @@
 1️⃣5️⃣ Fatorial<br>
 
 ### Resultado dos Testes ✔️
-<br>
+
 ![Testes](img/testess.jpeg)<br>
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
