@@ -155,3 +155,14 @@ describe('Teste de Fatorial', () => {
         expect(resultado).to.be.eq(120)
     })
 })
+// Verificar Binário
+describe('Teste de Converter Decimal para Binário', () => {
+    it('Teste: Deve converter 10 em Binário. O resultado deve ser 1010', () => {
+        let resultado = Calculadora.binario(10)
+        expect(resultado).to.be.eq('1010')
+    })
+    it('Teste: Deve converter 225 em Binário. O resultado deve ser 11100001', () => {
+        let resultado = Calculadora.binario(225)
+        expect(resultado).to.be.eq('11100001')
+    })
+})

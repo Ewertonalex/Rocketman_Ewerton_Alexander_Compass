@@ -163,6 +163,7 @@
 1️⃣3️⃣ Máximo Divisor Comum<br>
 1️⃣4️⃣ Mínimo Múltiplo Comum<br>
 1️⃣5️⃣ Fatorial<br>
+1️⃣6️⃣ Converter Decimal para Binário<br>
 
 <div align="center">
 
@@ -190,6 +191,7 @@
 - https://www.youtube.com/c/rafaellaballerini
 - https://mochajs.org/
 - https://www.chaijs.com/
+- https://www.delftstack.com/
  
 
   

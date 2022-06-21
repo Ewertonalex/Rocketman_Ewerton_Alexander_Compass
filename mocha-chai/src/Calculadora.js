@@ -75,15 +75,18 @@ export default class Calculadora {
         }        
     }
     static calculaMmc(a, b) {
-        var resto, x, y;
-        x = a;
-        y = b;
+        var resto, x, y
+        x = a
+        y = b
         while(resto!=0){
-          resto = x % y;
-          x = y;
-          y = resto;
+          resto = x % y
+          x = y
+          y = resto
         }
-        return (a * b)/x;
-      };
+        return (a * b)/x
+    }
+    static binario(dec){
+        return (dec >>> 0).toString(2);
+    }
     
 }
