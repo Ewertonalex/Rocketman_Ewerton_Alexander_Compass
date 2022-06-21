@@ -1,6 +1,6 @@
 <h1 align="center">
 
-  ![titulo](img/Sprint%204%20(1).gif)
+![titulo](img/Sprint%204%20(2).gif)  
 
   <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=000000&size=25&lines=Bem+-+vindo+ao+meu+repositório..." /></a>
   
