@@ -132,6 +132,7 @@
 [<img src="https://rafaelomarques.files.wordpress.com/2016/05/logo-javascript.png" width=115><br>](https://github.com/Ewertonalex/Rocketman_Ewerton_Alexander_Compass/tree/develop/Javascript)<br>
 3️⃣ <strong>Utilizando as Bibliotecas Mocha e Chai;</strong><br>Clique para Acessar 👇 <br>
 [<img src="https://miro.medium.com/max/482/1*BmORsbtFaWw0lyyfMtYd0Q.png" width=115><br>](https://github.com/Ewertonalex/Rocketman_Ewerton_Alexander_Compass/tree/develop/mocha-chai)<br>
+4️⃣ <strong>Construindo Calculadora em JS, usando Mocha e Chai;</strong><br>Clique para Acessar 👇 <br>[<img src="https://miro.medium.com/max/482/1*BmORsbtFaWw0lyyfMtYd0Q.png" width=115><br>](https://github.com/Ewertonalex/Rocketman_Ewerton_Alexander_Compass/tree/develop/mocha-chai)<br>
 
 
 
@@ -143,10 +144,6 @@
   
 ## 🚀 Calculadora com Mocha e Chai em Javascript:
 <strong>Aqui construí uma calculadora com algumas operações matemáticas abaixo listadas, usando o que foi aprendido nas aulas da Sprint 4 de TDD com Mocha e Chai.</strong>
-</div>
-<div align="center">
-<strong>Construindo Calculadora em JS, usando Mocha e Chai;</strong><br>Clique para Acessar 👇 <br>
-[<img src="https://3.bp.blogspot.com/-oyQBiT6BswY/Xg_79lqrGEI/AAAAAAAA0H4/8Yxol_S65HQO2C6NNEAK3ZtSarUdifQZgCPcBGAYYCw/s300/calculadora-js.png" width=115><br>](https://github.com/Ewertonalex/Rocketman_Ewerton_Alexander_Compass/blob/develop/mocha-chai/test/Calculadora.spec.js)<br>
 </div>
 <br>
 <strong>Testes Usados na Calculadora</strong><br>
