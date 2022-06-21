@@ -54,5 +54,25 @@ export default class Calculadora {
         let resultado = numRaizC
         return resultado
     }
+    static porcentagem(a, b) {
+        let valorPorcentagem = a/100
+        return valorPorcentagem * b
+    }
+    static mdc(a, b) {
+        let resto
+        do {
+            resto  = a % b
+            a = b
+            b = resto
+        } while (resto != 0)
+        return a
+    }
+    static fatorial(a) {
+        if (a == 0) {
+            return 1
+        }else {
+            return a*this.fatorial(b, a % b)
+        }        
+    }
     
 }

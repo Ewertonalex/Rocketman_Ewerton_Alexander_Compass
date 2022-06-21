@@ -118,6 +118,28 @@ describe('Teste de Potenciacao', () => {
     })
 })
 
-
-
-
+// Verificar Porcentagem
+describe('Teste de Porcentagem', () => {
+    it('Teste: Calculando 20% de 100, resultado deve ser 20', () => {
+        let resultado = Calculadora.porcentagem(20, 100)
+        expect(resultado).to.be.eq(20)
+    })
+    it('Teste: Numero negativo. Calculando 40% de -200, resultado deve ser -80', () => {
+        let resultado = Calculadora.porcentagem(40, -200)
+        expect(resultado).to.be.eq(-80)
+    })
+})
+// Verificar MDC
+describe('Teste de MDC', () => {
+    it('Teste: Deve calcular o MDC de 30 e 20. O resultado deve ser 10', () => {
+        let resultado = Calculadora.mdc(30, 20)
+        expect(resultado).to.be.eq(10)
+    })
+})
+// Verificar Fatorial
+describe('Teste de Fatorial', () => {
+    it('Teste: Deve calcular o fatorial de 5. O resultado deve ser 120', () => {
+        let resultado = Calculadora.mdc(5)
+        expect(resultado).to.be.eq(120)
+    })
+})
