@@ -132,11 +132,45 @@
 [<img src="https://rafaelomarques.files.wordpress.com/2016/05/logo-javascript.png" width=115><br>](https://github.com/Ewertonalex/Rocketman_Ewerton_Alexander_Compass/tree/develop/Javascript)<br>
 3️⃣ <strong>Utilizando as Bibliotecas Mocha e Chai;</strong><br>Clique para Acessar 👇 <br>
 [<img src="https://miro.medium.com/max/482/1*BmORsbtFaWw0lyyfMtYd0Q.png" width=115><br>](https://github.com/Ewertonalex/Rocketman_Ewerton_Alexander_Compass/tree/develop/mocha-chai)<br>
-3️⃣ <strong>Construindo Calculadora em JS, usando Mocha e Chai;</strong><br>Clique para Acessar 👇 <br>
-[<img src="https://3.bp.blogspot.com/-oyQBiT6BswY/Xg_79lqrGEI/AAAAAAAA0H4/8Yxol_S65HQO2C6NNEAK3ZtSarUdifQZgCPcBGAYYCw/s300/calculadora-js.png" width=115><br>](https://github.com/Ewertonalex/Rocketman_Ewerton_Alexander_Compass/blob/develop/mocha-chai/src/Calculadora.js)<br>
+
 
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
+<div align="center">
+ <img src="https://c.tenor.com/EqbLfUWmAr0AAAAC/darth-vader-what.gif" width=300><br>
+  
+  
+## 🚀 Calculadora com Mocha e Chai em Javascript:
+<strong>Aqui construí uma calculadora com algumas operações matemáticas abaixo listadas, usando o que foi aprendido nas aulas da Sprint 4 de TDD com Mocha e Chai.</strong>
+</div>
+
+<strong>Construindo Calculadora em JS, usando Mocha e Chai;</strong><br>Clique para Acessar 👇 <br>
+[<img src="https://3.bp.blogspot.com/-oyQBiT6BswY/Xg_79lqrGEI/AAAAAAAA0H4/8Yxol_S65HQO2C6NNEAK3ZtSarUdifQZgCPcBGAYYCw/s300/calculadora-js.png" width=115><br>](https://github.com/Ewertonalex/Rocketman_Ewerton_Alexander_Compass/blob/develop/mocha-chai/src/Calculadora.js)<br>
+
+<strong>Testes Usados na Calculadora</strong>
+
+1️⃣ Soma (Numeros inteiros, negativos e flutuantes)
+2️⃣ Soma de um Array
+3️⃣ Subtração
+4️⃣ Subtração de um Array
+5️⃣ Multiplicação
+6️⃣ Divisão
+7️⃣ Dobro de um valor
+8️⃣ Média
+9️⃣ Raiz Quadrada
+🔟 Raiz Cúbica
+1️⃣1️⃣ Potenciação
+1️⃣2️⃣ Porcentagem
+1️⃣3️⃣ Máximo Divisor Comum
+1️⃣4️⃣ Mínimo Múltiplo Comum
+1️⃣5️⃣ Fatorial
+
+<img src="../img/testess.jpeg" width=800><br>
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
+
 
 <div align="center">
  <img src="http://s2.glbimg.com/s9JMmc7HfCyj6lP2uX4LgK8RTUo=/290x217/s2.glbimg.com/jcI-yw0iA3RKj1dGFoiTc9Lcuo0=/620x465/s.glbimg.com/jo/g1/f/original/2015/07/19/animefriends2015-31.jpg" width=300><br>

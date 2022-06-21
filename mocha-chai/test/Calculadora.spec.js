@@ -18,10 +18,15 @@ describe('Testes de soma', () => {
         let resultado = Calculadora.soma(-5, 4)
         expect(resultado).to.be.eq(-1)
     })
+    it('Teste: Numeros flutuantes. Deve somar os elementos do array 7.5 e 3.2 resultando em 10.7', () => {
+        let resultado = Calculadora.soma(7.5, 3.2 )
+        expect(resultado).to.be.eq(10.7)
+    })
     it('Teste: Soma Array. Deve somar os elementos do array 10, 5, 2 resultando em 17', () => {
         let resultado = Calculadora.somaArray([10, 5, 2])
         expect(resultado).to.be.eq(17)
     })
+    
 })
 
 
@@ -130,16 +135,23 @@ describe('Teste de Porcentagem', () => {
     })
 })
 // Verificar MDC
-describe('Teste de MDC', () => {
+describe('Teste de MDC (Máximo Divisor Comum)', () => {
     it('Teste: Deve calcular o MDC de 30 e 20. O resultado deve ser 10', () => {
         let resultado = Calculadora.mdc(30, 20)
         expect(resultado).to.be.eq(10)
     })
 })
+// Verificar MMC
+describe('Teste de MMC (Mínimo Múltiplo Comum)', () => {
+    it('Teste: Deve calcular o MMC de 30 e 20. O resultado deve ser 60', () => {
+        let resultado = Calculadora.calculaMmc(30, 20)
+        expect(resultado).to.be.eq(60)
+    })
+})
 // Verificar Fatorial
 describe('Teste de Fatorial', () => {
     it('Teste: Deve calcular o fatorial de 5. O resultado deve ser 120', () => {
-        let resultado = Calculadora.mdc(5)
+        let resultado = Calculadora.fatorial(5)
         expect(resultado).to.be.eq(120)
     })
 })

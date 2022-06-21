@@ -71,8 +71,19 @@ export default class Calculadora {
         if (a == 0) {
             return 1
         }else {
-            return a*this.fatorial(b, a % b)
+            return a*this.fatorial(a - 1)
         }        
     }
+    static calculaMmc(a, b) {
+        var resto, x, y;
+        x = a;
+        y = b;
+        while(resto!=0){
+          resto = x % y;
+          x = y;
+          y = resto;
+        }
+        return (a * b)/x;
+      };
     
 }
