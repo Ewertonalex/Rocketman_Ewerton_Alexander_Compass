@@ -192,6 +192,7 @@
 - https://mochajs.org/
 - https://www.chaijs.com/
 - https://www.delftstack.com/
+- https://pt.stackoverflow.com/
  
 
   
