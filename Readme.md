@@ -132,7 +132,7 @@
 [<img src="https://rafaelomarques.files.wordpress.com/2016/05/logo-javascript.png" width=115><br>](https://github.com/Ewertonalex/Rocketman_Ewerton_Alexander_Compass/tree/develop/Javascript)<br>
 3️⃣ <strong>Utilizando as Bibliotecas Mocha e Chai;</strong><br>Clique para Acessar 👇 <br>
 [<img src="https://miro.medium.com/max/482/1*BmORsbtFaWw0lyyfMtYd0Q.png" width=115><br>](https://github.com/Ewertonalex/Rocketman_Ewerton_Alexander_Compass/tree/develop/mocha-chai)<br>
-4️⃣ <strong>Construindo Calculadora em JS, usando Mocha e Chai;</strong><br>Clique para Acessar 👇 <br>[<img src="https://miro.medium.com/max/482/1*BmORsbtFaWw0lyyfMtYd0Q.png" width=115><br>](https://github.com/Ewertonalex/Rocketman_Ewerton_Alexander_Compass/tree/develop/mocha-chai)<br>
+4️⃣ <strong>Construindo Calculadora em JS, usando Mocha e Chai;</strong><br>Clique para Acessar 👇 <br>[<img src="https://1.bp.blogspot.com/-mDVj_jgV-l8/WoHYNvrFvEI/AAAAAAAAAno/YX9ofLdKQYcakmi66nE5GH4QoIY5bq4HwCLcBGAs/s1600/calcular.jpg" width=115><br>](https://github.com/Ewertonalex/Rocketman_Ewerton_Alexander_Compass/tree/develop/mocha-chai)<br>
 
 
 
