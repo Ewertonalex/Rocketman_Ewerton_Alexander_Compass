@@ -164,7 +164,11 @@
 1️⃣4️⃣ Mínimo Múltiplo Comum<br>
 1️⃣5️⃣ Fatorial<br>
 
-### Resultado dos Testes ✔️
+<div align="center">
+
+<h3> Resultado dos Testes ✔️ </h3>
+
+</div>
 
 ![Testes](img/testess.jpeg)<br>
 
