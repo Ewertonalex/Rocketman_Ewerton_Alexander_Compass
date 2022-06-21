@@ -33,7 +33,7 @@
 - [Contador de asteriscos   ](https://github.com/Ewertonalex/Rocketman_Ewerton_Alexander_Compass/tree/develop/Javascript/Contador%20de%20Asteriscos)<br>
 - [Numeros primos   ](https://github.com/Ewertonalex/Rocketman_Ewerton_Alexander_Compass/tree/develop/Javascript/Numeros%20Primos)<br>
 - [Montador de endereço  ](https://github.com/Ewertonalex/Rocketman_Ewerton_Alexander_Compass/tree/develop/Javascript/Montador%20de%20Endereco)<br>
-- [Montador de endereço  ](https://github.com/Ewertonalex/Rocketman_Ewerton_Alexander_Compass/tree/develop/Javascript/Operador%20Spread)<br>
+- [Operador Spread  ](https://github.com/Ewertonalex/Rocketman_Ewerton_Alexander_Compass/tree/develop/Javascript/Operador%20Spread)<br>
 - [Encontre a igualdade  ](https://github.com/Ewertonalex/Rocketman_Ewerton_Alexander_Compass/tree/develop/Javascript/Encontre%20a%20Igualdade)<br>
 - [Montador de postagem de blog   ](https://github.com/Ewertonalex/Rocketman_Ewerton_Alexander_Compass/tree/develop/Javascript/Montador%20de%20Postagem%20de%20blog)<br>
 - [Faixa de preço  ](https://github.com/Ewertonalex/Rocketman_Ewerton_Alexander_Compass/tree/develop/Javascript/Faixa%20de%20Preco)<br>
