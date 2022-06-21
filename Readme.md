@@ -144,11 +144,12 @@
 ## 🚀 Calculadora com Mocha e Chai em Javascript:
 <strong>Aqui construí uma calculadora com algumas operações matemáticas abaixo listadas, usando o que foi aprendido nas aulas da Sprint 4 de TDD com Mocha e Chai.</strong>
 </div>
-
+<div align="center">
 <strong>Construindo Calculadora em JS, usando Mocha e Chai;</strong><br>Clique para Acessar 👇 <br>
-[<img src="https://3.bp.blogspot.com/-oyQBiT6BswY/Xg_79lqrGEI/AAAAAAAA0H4/8Yxol_S65HQO2C6NNEAK3ZtSarUdifQZgCPcBGAYYCw/s300/calculadora-js.png" width=115><br>](https://github.com/Ewertonalex/Rocketman_Ewerton_Alexander_Compass/blob/develop/mocha-chai/src/Calculadora.js)<br>
-
-<strong>Testes Usados na Calculadora</strong>
+[<img src="https://3.bp.blogspot.com/-oyQBiT6BswY/Xg_79lqrGEI/AAAAAAAA0H4/8Yxol_S65HQO2C6NNEAK3ZtSarUdifQZgCPcBGAYYCw/s300/calculadora-js.png" width=115><br>](https://github.com/Ewertonalex/Rocketman_Ewerton_Alexander_Compass/blob/develop/mocha-chai/test/Calculadora.spec.js)<br>
+</div>
+<br>
+<strong>Testes Usados na Calculadora</strong><br>
 
 1️⃣ Soma (Numeros inteiros, negativos e flutuantes)<br>
 2️⃣ Soma de um Array<br>
@@ -165,6 +166,8 @@
 1️⃣3️⃣ Máximo Divisor Comum<br>
 1️⃣4️⃣ Mínimo Múltiplo Comum<br>
 1️⃣5️⃣ Fatorial<br>
+
+### Resultado dos Testes ✔️
 
 ![Testes](img/testess.jpeg)<br>
 
