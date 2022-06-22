@@ -1,6 +1,6 @@
 <div align="center">
 
- <img src="https://media3.giphy.com/media/erCdSSqH0vgHVUhkIx/giphy.gif?cid=790b76119495d3520c05ca9add9fe21b46f5cfaedac8f324&rid=giphy.gif&ct=g"><br>
+ <img src="https://github.com/Ewertonalex/Rocketman_Ewerton_Alexander_Compass/blob/develop/img/Sprint%204%20(2).gif?raw=true"><br>
 
 <iframe src="https://giphy.com/embed/erCdSSqH0vgHVUhkIx" width="480" height="156" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/erCdSSqH0vgHVUhkIx"></a></p>
 
