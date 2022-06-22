@@ -175,9 +175,9 @@
 1️⃣4️⃣ Mínimo Múltiplo Comum<br>
 1️⃣5️⃣ Fatorial<br>
 1️⃣6️⃣ Converter Decimal para Binário<br>
-1️⃣7️⃣ Seno<br>
-1️⃣8️⃣ Menor Número<br>
-1️⃣9️⃣ Maior Número<br>
+1️⃣7️⃣ Menor Número<br>
+1️⃣8️⃣ Maior Número<br>
+
 
 <div align="center">
 

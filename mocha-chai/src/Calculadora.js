@@ -88,9 +88,6 @@ export default class Calculadora {
     static binario(dec){
         return (dec >>> 0).toString(2);
     }
-    static seno(a, b) {
-        return Math.sin(a) * b;
-    }
     static menor(a, b) {
         return Math.min(a, b)
     }

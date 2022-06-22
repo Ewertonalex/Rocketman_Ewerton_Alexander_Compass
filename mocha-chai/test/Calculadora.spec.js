@@ -166,13 +166,6 @@ describe('Teste de Converter Decimal para Binário', () => {
         expect(resultado).to.be.eq('11100001')
     })
 })
-// Verificar Seno
-describe('Teste de Seno', () => {
-    it('Teste: Deve calcular o seno de 1 e 10 e o retornar 8.414709848078965 ', () => {
-        let resultado = Calculadora.seno(1, 10)
-        expect(resultado).to.be.eq(8.414709848078965)
-    })
-})
 // Verificar Menor Número
 describe('Teste de Menor Número', () => {
     it('Teste: Deve rececer os numeros 10 e 20 e retornar o menor 10', () => {
