@@ -156,6 +156,59 @@
 ## 🚀 Calculadora com Mocha e Chai em Javascript:
 <strong>Aqui construí uma calculadora com algumas operações matemáticas abaixo listadas, usando o que foi aprendido nas aulas da Sprint 4 de TDD com Mocha e Chai.</strong>
 </div>
+
+### 💻 Passo a passo para elaboração da Calculadora:
+
+1️⃣ Ferramentas necessárias:<br>
+- Node JS;
+- Visual Studio Code;
+- Bibliotecas Mocha e Chai;
+- Git;<br>
+2️⃣ Criando a Package.json:<br>
+- Criar uma pasta vazia, a chamei de "mocha-chai"
+- Com as ferramentas já instaladas, abrir a pasta criada, clicar com botão direito do mouse dentro dela e abir o Git Bash;
+- Com o Terminal do Git Bash aberto dentro da pasta, vamos iniciar nosso repositório digitando o comando `npm init -y`, feito isso automaticamente abrirá um arquivo `package,json` dentro da sua pasta;
+- Logo após digite o comando `code .` para abrir o VS Code dentro do repositório;<br>
+3️⃣ Editando a Package.json:<br>
+- Dentro do arquivo, logo abaixo da linha "main", digite `"type": "module",` para permitir que o projeto rode com os comando do node;
+- Onde tem "test", devemos colocar assim `"test": "mocha"` para que quando a biblioteca Mocha esteja instalada, nossos testes possam rodar usando a mesma;
+4️⃣ Instalando Mocha e Chai:<br>
+- Agora dentro do VS Code, abra o terminal e digite `npm i -D mocha chai`;
+- Feito isso as Bibliotecas Mocha e Chai já estarão instaladas no projeto;
+5️⃣ Calculadora:<br>
+- Agora vamos criar uma pasta chamada `test` e dentro dela criar o arquivo `Calculadora.spec.js`;
+- Tambem iremos criar uma pasta chamada `src` e dentro dela criar o arquibo `Calculadora.js`;
+- No arquivo `Calculadora.js` iremos criar a classe Calculadora e criar nossas funções e métodos de cálculos que irão ser chamdadas no arquivo `Calculadora.spec.js`;<br>
+```
+ Por exemplo: 
+                  export default class Calculadora {
+
+                        static soma(a, b) {
+                              return a + b
+                        }
+                      }
+```
+
+- Já dentro do `Calculadora.spec.js`, iremos importar as bibliotecas Mocha e Chai, assert e a nossa classe Calculadora usando o `import`;
+- E iremos chamar nossos testes usando os comandos `describe`, para descrever o teste e `it`, que seria o teste propiamente dito;<br>
+
+```
+ Por exemplo: 
+  
+                 describe('Testes de Adição', () => {
+                      it('Teste: Números Naturais. Deve somar 4 e 5 resultando em 9', () => {
+                        let resultado = Calculadora.soma(4, 5)
+                        expect(resultado).to.be.eq(9)
+                 })
+```
+
+6️⃣ Resultado dos testes: <br>
+- Por fim, iremos abrir novamente o terminal e chamar nossos testes;
+- No terminal digite `npm test`, ele deve ler os testes criados e responder se passaram ou não.<br>
+7️⃣ Abaixo você verá todos os teste que foram realizados na Calculadora criada;<br>
+8️⃣ Antes desta lista tem link para acessar a Calculadora.<br>
+9️⃣ Logo mais abaixo tem imagem com exemplo de resposta as testes. <br>
+
 <br>
 <strong>Testes Usados na Calculadora</strong><br><br>
 
