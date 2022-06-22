@@ -155,9 +155,11 @@
   
 ## 🚀 Calculadora com Mocha e Chai em Javascript:
 <strong>Aqui construí uma calculadora com algumas operações matemáticas abaixo listadas, usando o que foi aprendido nas aulas da Sprint 4 de TDD com Mocha e Chai.</strong>
-</div>
+
 
 ### 💻 Passo a passo para elaboração da Calculadora:
+
+ </div>
 
 1️⃣ Ferramentas necessárias:<br>
 - Node JS;
