@@ -21,15 +21,15 @@ describe('Testes de Adição', () => {
     it('Teste: Numeros Decimais. Deve somar os elementos do array 7.5 e 3.2 resultando em 10.7', () => {
         let resultado = Calculadora.soma(7.5, 3.2 )
         expect(resultado).to.be.eq(10.7)
-    })
+    })   
+})
+// Verificar Soma de um Array
+describe('Testes de Adição de um Array', () => {
     it('Teste: Soma Array. Deve somar os elementos do array 10, 5, 2 resultando em 17', () => {
         let resultado = Calculadora.somaArray([10, 5, 2])
         expect(resultado).to.be.eq(17)
     })
-    
 })
-
-
 // Verifica Subtração
 describe('Testes de Subtração', () => {
     it('Teste: Números Naturais. Deve subtrair 5 e 4 resultando em 1', () => {
@@ -40,13 +40,14 @@ describe('Testes de Subtração', () => {
         let resultado = Calculadora.subtrair(-5, -4)
         expect(resultado).to.be.eq(-1)
     })
+})
+// Verificar Subtração de um Array
+describe('Testes de Subtração de um Array', () => {
     it('Teste: Subtração Array. Deve subtrair os elementos do array 1, 2, 5 resultando em 4', () => {
         let resultado = Calculadora.subtrairArray([1, 2, 5])
         expect(resultado).to.be.eq(4)
     })
-   
 })
-
 // Verifica  Multiplicação
 describe('Testes de multiplicacao', () => {
     it('Teste: Números Naturais. Deve multiplicar os numeros 4 e 5 resultando em 20', () => {
@@ -57,9 +58,13 @@ describe('Testes de multiplicacao', () => {
         let resultado = Calculadora.multiplicacao(4, -5)
         expect(resultado).to.be.eq(-20)
     })
-    it('Teste: Numeros Inteiros. Deve multiplicar os numeros -4 e -5 resultando em -20', () => {
+    it('Teste: Numeros Inteiros. Deve multiplicar os numeros -4 e -5 resultando em 20', () => {
         let resultado = Calculadora.multiplicacao(-4, -5)
         expect(resultado).to.be.eq(20)
+    })
+    it('Teste: Numeros Decimais. Deve multiplicar os numeros 4.5 e 5 resultando em 22.5', () => {
+        let resultado = Calculadora.multiplicacao(4.5, 5)
+        expect(resultado).to.be.eq(22.5)
     })
 })
 
@@ -70,9 +75,13 @@ describe('Testes de Divisão', () => {
         let resultado = Calculadora.divisao(100, 5)
         expect(resultado).to.be.eq(20)
     })
-    it('Teste: Numero zero. Dividir os numeros 4 e 0 resultando em 4', () => {
+    it('Teste: Numero zero. Dividir os numeros 4 e 0 resultando em Infinity', () => {
         let resultado = Calculadora.divisao(4, 0)
         expect(resultado).to.be.eq(Infinity)
+    })
+    it('Teste: Numero Decimais. Dividir os numeros 20 e 2.5 resultando em 8', () => {
+        let resultado = Calculadora.divisao(20, 2.5)
+        expect(resultado).to.be.eq(8)
     })
 })
 
