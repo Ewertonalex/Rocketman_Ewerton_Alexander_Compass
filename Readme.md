@@ -7,7 +7,7 @@
 ## 📢 ATENÇÃO! Antes de iniciar clique acima 👆 e assita o vídeo 🎞
 
 
-</div>
+
 
   <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=000000&size=25&lines=Bem+-+vindo+ao+meu+repositório..." /></a>
   
