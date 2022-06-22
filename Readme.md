@@ -3,7 +3,7 @@
 
 <img src="http://i.picasion.com/resize92/93340911c3f8745d1c5ea1b2f43566e8.gif" width=840><br>
 
----
+ ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 <h3>
 
