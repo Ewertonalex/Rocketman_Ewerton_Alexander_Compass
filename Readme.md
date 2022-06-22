@@ -216,7 +216,7 @@
 
 8️⃣ Antes desta lista tem link para acessar a Calculadora.<br>
 
-9️⃣ Logo mais abaixo tem imagem com exemplo de resposta as testes. <br>
+9️⃣ Logo mais abaixo tem imagem com exemplo de resposta aos testes. <br>
 
 <br>
 <strong>Testes Usados na Calculadora</strong><br><br>
