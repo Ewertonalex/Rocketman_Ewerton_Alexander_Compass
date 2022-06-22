@@ -5,7 +5,7 @@
 ---
 <h3>
 
-[Clique aqui 👉 <img src="https://logodownload.org/wp-content/uploads/2014/10/youtube-logo-9.png"  width=200><br> ](https://youtu.be/CRL06qn1gf4)</h3>
+[ <img src="https://logodownload.org/wp-content/uploads/2014/10/youtube-logo-9.png"  width=200><br> ](https://youtu.be/CRL06qn1gf4)</h3>
 ### 📢 ATENÇÃO! <br> Antes de iniciar clique acima 👆 e assita o vídeo de Introdução deste Repositório. 🎞 
 
 
