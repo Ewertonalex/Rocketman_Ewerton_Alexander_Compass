@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="https://github.com/Ewertonalex/Rocketman_Ewerton_Alexander_Compass/blob/develop/img/Sprint%204%20(2).gif"/><br>
+
+<img src="http://i.picasion.com/resize92/93340911c3f8745d1c5ea1b2f43566e8.gif"/><br>
 
 ---
 
