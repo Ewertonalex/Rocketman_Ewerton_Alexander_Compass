@@ -299,7 +299,6 @@
 <img src="https://data.bloggif.com/distant/user/store/8/4/9/c/9a7e872e2f977934a060af7744fbc948.gif" width=215><br>
 <a href="https://www.linkedin.com/in/ewerton-alexander-780869232/" target="_blank">Ewerton Alexander</a>!<g-emoji class="g-emoji" alias="wave" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png">👋</g-emoji></h3>
 
-<br><br><img src="https://24.media.tumblr.com/69e7c44eff8067110ba1ef3ea555ebb7/tumblr_ms5k6pYcUJ1sezoa7o1_500.gif" width=350><br>
  
 ### Obrigado! Que a Força esteja com você!
   
