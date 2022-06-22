@@ -169,7 +169,7 @@
 8️⃣ Média<br>
 9️⃣ Raiz Quadrada<br>
 🔟 Raiz Cúbica<br>
-1️⃣1️⃣ Potenciação<br>
+1️⃣1️⃣ Exponenciação<br>
 1️⃣2️⃣ Porcentagem<br>
 1️⃣3️⃣ Máximo Divisor Comum<br>
 1️⃣4️⃣ Mínimo Múltiplo Comum<br>

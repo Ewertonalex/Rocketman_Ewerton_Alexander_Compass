@@ -40,19 +40,17 @@ export default class Calculadora {
         let mediatotal = somamedia / 2
         return mediatotal
     }
-    static potencia(a, b) {
+    static exponenciacao(a, b) {
         let numPot = Math.pow(a, b)
         return numPot
     }
     static raizQuadrada(a, numRaiz) {
         numRaiz = Math.sqrt(a)
-        let resultado = numRaiz
-        return resultado
+        return numRaiz
     }
     static raizCubica(a, numRaizC) {
         numRaizC = Math.cbrt(a)
-        let resultado = numRaizC
-        return resultado
+        return numRaizC
     }
     static porcentagem(a, b) {
         let valorPorcentagem = a/100

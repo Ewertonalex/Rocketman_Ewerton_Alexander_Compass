@@ -115,11 +115,11 @@ describe('Teste de Raiz cubica', () => {
     })
 })
 
-// Verificar Potencia de um valor
-describe('Teste de Potenciacao', () => {
-    it('Teste: Deve receber o valor 4 elevado 5 e resultando 1024', () => {
-        let resultado = Calculadora.potencia(4, 5)
-        expect(resultado).to.be.eq(1024)
+// Verificar Exponenciação
+describe('Teste de Exponenciação', () => {
+    it('Teste: Deve receber o valor 7 elevado 2 e resultando 49', () => {
+        let resultado = Calculadora.exponenciacao(7, 2)
+        expect(resultado).to.be.eq(49)
     })
 })
 
