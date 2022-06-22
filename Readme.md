@@ -2,11 +2,14 @@
 
 ![titulo](img/Sprint%204%20(2).gif)  
 
-[Assista o Vídeo](https://youtu.be/CRL06qn1gf4)
+[👉 Assista o Vídeo 👈](https://youtu.be/CRL06qn1gf4)</h1>
+## 📢 ATENÇÃO! Antes de Iniciar clique acima e assita o vídeo 🎞
+
+![CREDITO](img/Star-Wars-Intro-Creator-Google-Chrome-2022-06-21-21-11-37-_online-video-cutter.com_-_1_%20(1).gif)
 
   <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=000000&size=25&lines=Bem+-+vindo+ao+meu+repositório..." /></a>
   
-  👋 Olá! Eu sou o Ewerton Alexander... <img src="https://data.bloggif.com/distant/user/store/8/c/6/6/4be784d31f3f96a157dd14094c1766c8.gif" width=60></h1>
+  <h1>👋 Olá! Eu sou o Ewerton Alexander... <img src="https://data.bloggif.com/distant/user/store/8/c/6/6/4be784d31f3f96a157dd14094c1766c8.gif" width=60></h1>
 
 
 </div>
