@@ -226,7 +226,7 @@
  
 ### Obrigado! Que a Força esteja com você!
   
-![credito](img/creditoSW.gif)
+[credito](https://youtu.be/AuIQ6fF4WFo)
   
   
 </div>
