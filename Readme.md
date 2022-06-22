@@ -164,17 +164,21 @@
 - Visual Studio Code;
 - Bibliotecas Mocha e Chai;
 - Git;<br>
+
 2️⃣ Criando a Package.json:<br>
 - Criar uma pasta vazia, a chamei de "mocha-chai"
 - Com as ferramentas já instaladas, abrir a pasta criada, clicar com botão direito do mouse dentro dela e abir o Git Bash;
 - Com o Terminal do Git Bash aberto dentro da pasta, vamos iniciar nosso repositório digitando o comando `npm init -y`, feito isso automaticamente abrirá um arquivo `package,json` dentro da sua pasta;
 - Logo após digite o comando `code .` para abrir o VS Code dentro do repositório;<br>
+
 3️⃣ Editando a Package.json:<br>
 - Dentro do arquivo, logo abaixo da linha "main", digite `"type": "module",` para permitir que o projeto rode com os comando do node;
 - Onde tem "test", devemos colocar assim `"test": "mocha"` para que quando a biblioteca Mocha esteja instalada, nossos testes possam rodar usando a mesma;
+
 4️⃣ Instalando Mocha e Chai:<br>
 - Agora dentro do VS Code, abra o terminal e digite `npm i -D mocha chai`;
 - Feito isso as Bibliotecas Mocha e Chai já estarão instaladas no projeto;
+
 5️⃣ Calculadora:<br>
 - Agora vamos criar uma pasta chamada `test` e dentro dela criar o arquivo `Calculadora.spec.js`;
 - Tambem iremos criar uma pasta chamada `src` e dentro dela criar o arquibo `Calculadora.js`;
@@ -205,8 +209,11 @@
 6️⃣ Resultado dos testes: <br>
 - Por fim, iremos abrir novamente o terminal e chamar nossos testes;
 - No terminal digite `npm test`, ele deve ler os testes criados e responder se passaram ou não.<br>
+
 7️⃣ Abaixo você verá todos os teste que foram realizados na Calculadora criada;<br>
+
 8️⃣ Antes desta lista tem link para acessar a Calculadora.<br>
+
 9️⃣ Logo mais abaixo tem imagem com exemplo de resposta as testes. <br>
 
 <br>
