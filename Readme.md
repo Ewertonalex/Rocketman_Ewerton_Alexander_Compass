@@ -1,7 +1,7 @@
 <div align="center">
 
 
-<img src="http://i.picasion.com/resize92/93340911c3f8745d1c5ea1b2f43566e8.gif"/><br>
+<img src="http://i.picasion.com/resize92/93340911c3f8745d1c5ea1b2f43566e8.gif" width=640><br>
 
 ---
 
