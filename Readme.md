@@ -4,9 +4,8 @@
 <h1>
 
 [👉 Assista o Vídeo 👈](https://youtu.be/CRL06qn1gf4)</h1>
-## 📢 ATENÇÃO! Antes de Iniciar clique acima e assita o vídeo 🎞
+## 📢 ATENÇÃO! Antes de iniciar clique acima 👆 e assita o vídeo 🎞
 
-![CREDITO](img/Star-Wars-Intro-Creator-Google-Chrome-2022-06-21-21-11-37-_online-video-cutter.com_-_1_%20(1).gif)
 
 </div>
 
