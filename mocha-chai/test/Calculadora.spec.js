@@ -122,6 +122,10 @@ describe('Teste de Raiz cubica', () => {
         let resultado = Calculadora.raizCubica(512)
         expect(resultado).to.be.eq(8)
     })
+    it('Teste: Numero Negativo. Deve receber o valor -64 resultando na sua raiz cubica que é -4', () => {
+        let resultado = Calculadora.raizCubica(-64)
+        expect(resultado).to.be.eq(-4)
+    })
 })
 
 // Verificar Exponenciação
@@ -162,6 +166,14 @@ describe('Teste de Fatorial', () => {
     it('Teste: Deve calcular o fatorial de 5. O resultado deve ser 120', () => {
         let resultado = Calculadora.fatorial(5)
         expect(resultado).to.be.eq(120)
+    })
+    it('Teste: Deve calcular o fatorial de 1. O resultado deve ser 1', () => {
+        let resultado = Calculadora.fatorial(1)
+        expect(resultado).to.be.eq(1)
+    })
+    it('Teste: Deve calcular o fatorial de 0. O resultado deve ser 1', () => {
+        let resultado = Calculadora.fatorial(0)
+        expect(resultado).to.be.eq(1)
     })
 })
 // Verificar Binário
