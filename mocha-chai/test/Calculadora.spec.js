@@ -114,8 +114,11 @@ describe('Teste de Raiz quadrada', () => {
         let resultado = Calculadora.raizQuadrada(25)
         expect(resultado).to.be.eq(5)
     })
+    it('Teste: Número Negativo. Deve receber o valor -2 resultando em undefined', () => {
+        let resultado = Calculadora.raizQuadrada(-2)
+        expect(resultado).to.be.eq(undefined)
+    })
 })
-
 // Verificar Raiz Cubica
 describe('Teste de Raiz cubica', () => {
     it('Teste: Deve receber o valor 512 resultando na sua raiz cubica que é 8', () => {

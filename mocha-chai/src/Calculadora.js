@@ -46,7 +46,13 @@ export default class Calculadora {
     }
     static raizQuadrada(a, numRaiz) {
         numRaiz = Math.sqrt(a)
-        return numRaiz
+        let resut = numRaiz
+        if (resut >= 0) {
+            return numRaiz
+        } else if (resut < 0) {
+            return undefined
+        }
+        
     }
     static raizCubica(a, numRaizC) {
         numRaizC = Math.cbrt(a)
