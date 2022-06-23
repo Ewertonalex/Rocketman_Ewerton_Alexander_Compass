@@ -187,12 +187,12 @@
 - No arquivo `Calculadora.js` iremos criar a classe Calculadora e criar nossas funções e métodos de cálculos que irão ser chamdadas no arquivo `Calculadora.spec.js`;<br>
 ```
  Por exemplo: 
-                  export default class Calculadora {
+export default class Calculadora {
 
-                        static soma(a, b) {
-                              return a + b
-                        }
-                      }
+ static soma(a, b) {
+      return a + b
+      }
+  }                       
 ```
 
 - Já dentro do `Calculadora.spec.js`, iremos importar as bibliotecas Mocha e Chai, assert e a nossa classe Calculadora usando o `import`;
@@ -201,11 +201,11 @@
 ```
  Por exemplo: 
   
-                 describe('Testes de Adição', () => {
-                      it('Teste: Números Naturais. Deve somar 4 e 5 resultando em 9', () => {
-                        let resultado = Calculadora.soma(4, 5)
-                        expect(resultado).to.be.eq(9)
-                 })
+describe('Testes de Adição', () => {
+    it('Teste: Números Naturais. Deve somar 4 e 5 resultando em 9', () => {
+        let resultado = Calculadora.soma(4, 5)
+        expect(resultado).to.be.eq(9)
+    })                 
 ```
 
 6️⃣ Resultado dos testes: <br>
