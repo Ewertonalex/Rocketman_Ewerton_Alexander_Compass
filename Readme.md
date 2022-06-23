@@ -53,7 +53,7 @@
 
   <h1>Atividades Sprint 4:</h2>
 
-<h2>Todas os projetos serão desenvolvidos com:</h2>
+<h2>Todos os projetos serão desenvolvidos com:</h2>
 
 [![blog](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]
 [![blog](https://img.shields.io/badge/mocha.js-323330?style=for-the-badge&logo=mocha&logoColor=Brown)]
